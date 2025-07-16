@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.5)
+include($ENV{IDF_PATH}/tools/cmake/project.cmake)
+set(EXTRA_COMPONENT_DIRS components/esp-idf-lib/components)
+project(rtc_test C)
+set(CMAKE_C_STANDARD 99)
