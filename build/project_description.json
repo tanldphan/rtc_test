@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "rtc_test",
-    "project_version":    "1",
+    "project_version":    "71d1ce6-dirty",
     "project_path":       "C:/Users/tanld/Desktop/rtc_test",
     "idf_path":           "C:/Users/tanld/esp/v5.4.2/esp-idf",
     "build_dir":          "C:/Users/tanld/Desktop/rtc_test/build",
